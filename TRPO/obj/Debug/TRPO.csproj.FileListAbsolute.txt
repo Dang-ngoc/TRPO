@@ -1,0 +1,38 @@
+c:\users\admin\documents\CSharpProjects\Алгоритмы\TRPO\TRPO\bin\Debug\TRPO.exe.config
+c:\users\admin\documents\CSharpProjects\Алгоритмы\TRPO\TRPO\bin\Debug\TRPO.exe
+c:\users\admin\documents\CSharpProjects\Алгоритмы\TRPO\TRPO\bin\Debug\TRPO.pdb
+c:\users\admin\documents\CSharpProjects\Алгоритмы\TRPO\TRPO\obj\Debug\TRPO.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\CSharpProjects\Алгоритмы\TRPO\TRPO\obj\Debug\TRPO.Form1.resources
+c:\users\admin\documents\CSharpProjects\Алгоритмы\TRPO\TRPO\obj\Debug\TRPO.Properties.Resources.resources
+c:\users\admin\documents\CSharpProjects\Алгоритмы\TRPO\TRPO\obj\Debug\TRPO.csproj.GenerateResource.Cache
+c:\users\admin\documents\CSharpProjects\Алгоритмы\TRPO\TRPO\obj\Debug\TRPO.exe
+c:\users\admin\documents\CSharpProjects\Алгоритмы\TRPO\TRPO\obj\Debug\TRPO.pdb
+C:\Users\ThienPro\Documents\Visual Studio 2015\Projects\TRPO\TRPO\bin\Debug\TRPO.exe.config
+C:\Users\ThienPro\Documents\Visual Studio 2015\Projects\TRPO\TRPO\obj\Debug\TRPO.exe
+C:\Users\ThienPro\Documents\Visual Studio 2015\Projects\TRPO\TRPO\obj\Debug\TRPO.pdb
+C:\Users\ThienPro\Documents\Visual Studio 2015\Projects\TRPO\TRPO\bin\Debug\TRPO.exe
+C:\Users\ThienPro\Documents\Visual Studio 2015\Projects\TRPO\TRPO\bin\Debug\TRPO.pdb
+C:\Users\ThienPro\Documents\Visual Studio 2015\Projects\TRPO\TRPO\obj\Debug\TRPO.csprojResolveAssemblyReference.cache
+C:\Users\ThienPro\Documents\Visual Studio 2015\Projects\TRPO\TRPO\obj\Debug\TRPO.Form1.resources
+C:\Users\ThienPro\Documents\Visual Studio 2015\Projects\TRPO\TRPO\obj\Debug\TRPO.Properties.Resources.resources
+C:\Users\ThienPro\Documents\Visual Studio 2015\Projects\TRPO\TRPO\obj\Debug\TRPO.csproj.GenerateResource.Cache
+C:\Users\ThienPro\Downloads\xyzxyzxyz-master\TRPO\TRPO\bin\Debug\TRPO.exe.config
+C:\Users\ThienPro\Downloads\xyzxyzxyz-master\TRPO\TRPO\obj\Debug\TRPO.exe
+C:\Users\ThienPro\Downloads\xyzxyzxyz-master\TRPO\TRPO\obj\Debug\TRPO.pdb
+C:\Users\ThienPro\Downloads\xyzxyzxyz-master\TRPO\TRPO\bin\Debug\TRPO.exe
+C:\Users\ThienPro\Downloads\xyzxyzxyz-master\TRPO\TRPO\bin\Debug\TRPO.pdb
+C:\Users\ThienPro\Downloads\xyzxyzxyz-master\TRPO\TRPO\obj\Debug\TRPO.csprojResolveAssemblyReference.cache
+C:\Users\ThienPro\Downloads\xyzxyzxyz-master\TRPO\TRPO\obj\Debug\TRPO.Form1.resources
+C:\Users\ThienPro\Downloads\xyzxyzxyz-master\TRPO\TRPO\obj\Debug\TRPO.Properties.Resources.resources
+C:\Users\ThienPro\Downloads\xyzxyzxyz-master\TRPO\TRPO\obj\Debug\TRPO.csproj.GenerateResource.Cache
+C:\Users\ThienPro\Downloads\xyzxyzxyz-master\TRPO\TRPO\obj\Debug\TRPO.Form2.resources
+C:\Users\Admin\documents\CSharpProjects\Алгоритмы\TRPO\TRPO\obj\Debug\TRPO.Form2.resources
+C:\Users\ThienPro\Desktop\Thien\xyzxyzxyz\TRPO\TRPO\bin\Debug\TRPO.exe.config
+C:\Users\ThienPro\Desktop\Thien\xyzxyzxyz\TRPO\TRPO\obj\Debug\TRPO.exe
+C:\Users\ThienPro\Desktop\Thien\xyzxyzxyz\TRPO\TRPO\obj\Debug\TRPO.pdb
+C:\Users\ThienPro\Desktop\Thien\xyzxyzxyz\TRPO\TRPO\bin\Debug\TRPO.exe
+C:\Users\ThienPro\Desktop\Thien\xyzxyzxyz\TRPO\TRPO\bin\Debug\TRPO.pdb
+C:\Users\ThienPro\Desktop\Thien\xyzxyzxyz\TRPO\TRPO\obj\Debug\TRPO.csprojResolveAssemblyReference.cache
+C:\Users\ThienPro\Desktop\Thien\xyzxyzxyz\TRPO\TRPO\obj\Debug\TRPO.Form1.resources
+C:\Users\ThienPro\Desktop\Thien\xyzxyzxyz\TRPO\TRPO\obj\Debug\TRPO.Properties.Resources.resources
+C:\Users\ThienPro\Desktop\Thien\xyzxyzxyz\TRPO\TRPO\obj\Debug\TRPO.csproj.GenerateResource.Cache
