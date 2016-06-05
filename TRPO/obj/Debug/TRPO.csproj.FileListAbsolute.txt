@@ -36,3 +36,6 @@ C:\Users\ThienPro\Desktop\Thien\xyzxyzxyz\TRPO\TRPO\obj\Debug\TRPO.csprojResolve
 C:\Users\ThienPro\Desktop\Thien\xyzxyzxyz\TRPO\TRPO\obj\Debug\TRPO.Form1.resources
 C:\Users\ThienPro\Desktop\Thien\xyzxyzxyz\TRPO\TRPO\obj\Debug\TRPO.Properties.Resources.resources
 C:\Users\ThienPro\Desktop\Thien\xyzxyzxyz\TRPO\TRPO\obj\Debug\TRPO.csproj.GenerateResource.Cache
+C:\Users\ThienPro\Desktop\Thien\TRPO\TRPO\bin\Debug\TRPO.exe.config
+C:\Users\ThienPro\Desktop\Thien\TRPO\TRPO\obj\Debug\TRPO.exe
+C:\Users\ThienPro\Desktop\Thien\TRPO\TRPO\obj\Debug\TRPO.pdb

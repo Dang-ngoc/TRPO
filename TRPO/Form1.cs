@@ -14,6 +14,8 @@ namespace TRPO
 {
     public partial class Form1 : Form
     {
+        //dang ngoc thien thu Pull
+
         public Form1()
         {
             InitializeComponent();
