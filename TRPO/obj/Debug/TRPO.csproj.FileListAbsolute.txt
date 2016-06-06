@@ -39,3 +39,12 @@ C:\Users\ThienPro\Desktop\Thien\xyzxyzxyz\TRPO\TRPO\obj\Debug\TRPO.csproj.Genera
 C:\Users\ThienPro\Desktop\Thien\TRPO\TRPO\bin\Debug\TRPO.exe.config
 C:\Users\ThienPro\Desktop\Thien\TRPO\TRPO\obj\Debug\TRPO.exe
 C:\Users\ThienPro\Desktop\Thien\TRPO\TRPO\obj\Debug\TRPO.pdb
+C:\Users\ThienPro\Desktop\Test\TRPO\TRPO\bin\Debug\TRPO.exe.config
+C:\Users\ThienPro\Desktop\Test\TRPO\TRPO\obj\Debug\TRPO.exe
+C:\Users\ThienPro\Desktop\Test\TRPO\TRPO\obj\Debug\TRPO.pdb
+C:\Users\ThienPro\Desktop\Test\TRPO\TRPO\bin\Debug\TRPO.exe
+C:\Users\ThienPro\Desktop\Test\TRPO\TRPO\bin\Debug\TRPO.pdb
+C:\Users\ThienPro\Desktop\Test\TRPO\TRPO\obj\Debug\TRPO.csprojResolveAssemblyReference.cache
+C:\Users\ThienPro\Desktop\Test\TRPO\TRPO\obj\Debug\TRPO.Form1.resources
+C:\Users\ThienPro\Desktop\Test\TRPO\TRPO\obj\Debug\TRPO.Properties.Resources.resources
+C:\Users\ThienPro\Desktop\Test\TRPO\TRPO\obj\Debug\TRPO.csproj.GenerateResource.Cache

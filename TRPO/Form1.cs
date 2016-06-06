@@ -14,7 +14,7 @@ namespace TRPO
 {
     public partial class Form1 : Form
     {
-        //dang ngoc thien thu Pull
+        
 
         public Form1()
         {
@@ -71,6 +71,7 @@ namespace TRPO
 
         private void fileInput(object sender, EventArgs args)
         {
+            lblInfor.Text = "";
             button1.Visible = false;
             OpenFileDialog file = new OpenFileDialog();
             if (file.ShowDialog(this) == DialogResult.OK)
@@ -184,10 +185,10 @@ namespace TRPO
                     if (i==0||j==0)
                     {
                         
-                        row.Cells[0].Value = "Ai/Bj"+"\r\n";
+                        row.Cells[0].Value = "Ai \\ Bj"+"\r\n";
                         row.Cells[j].Style.ForeColor = System.Drawing.Color.Navy;
                         row.Cells[j].ReadOnly = true;
-                        row.Cells[j].Style.Font = new Font(this.Font, FontStyle.Bold);
+                        row.Cells[j].Style.Font = new Font("Arial",11, FontStyle.Bold);
                         row.Cells[j].Style.BackColor = System.Drawing.Color.Khaki;
                         
 
@@ -406,7 +407,7 @@ namespace TRPO
                             {
                                 for(int l = 0; l < m; l++)
                                 {
-                                    if(D[k, l] != 0 && k != i && l != j && S[i, j] + S[k, l] > S[i, l] + S[k, j])
+                                    if(D[k, l] != 0 && k != i && l != j && S[i, j] + S[k, l] > S[i, l] + S[k, j])//&&(D[i,l]*D[k,j]!=0))
                                     {
                                         int Min = Math.Min(D[i, j], D[k, l]);
                                         D[i, j] -= Min;
