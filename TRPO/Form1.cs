@@ -171,6 +171,7 @@ namespace TRPO
 
         private void drawMatrix(DataGridView grid, int[,] matrix, bool drawZero)
         {
+          
             onSizeEntered(grid, matrix.GetLength(0), matrix.GetLength(1));
             txtNumA.Text = (matrix.GetLength(0)-1).ToString();
             txtNumB.Text = (matrix.GetLength(1)-1).ToString();
@@ -181,6 +182,7 @@ namespace TRPO
                 DataGridViewRow row = grid.Rows[i];
                 for (int j = 0; j < matrix.GetLength(1); j++)
                 {
+                    row.Cells[j].Style.Font = new Font(this.Font, FontStyle.Regular);
                     row.Cells[j].Style.BackColor = System.Drawing.Color.White;
                     if (i==0||j==0)
                     {
