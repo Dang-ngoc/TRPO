@@ -182,7 +182,6 @@ namespace TRPO
                 DataGridViewRow row = grid.Rows[i];
                 for (int j = 0; j < matrix.GetLength(1); j++)
                 {
-                    row.Cells[j].Style.Font = new Font(this.Font, FontStyle.Regular);
                     row.Cells[j].Style.BackColor = System.Drawing.Color.White;
                     if (i==0||j==0)
                     {
@@ -335,6 +334,7 @@ namespace TRPO
 
         private int[,] minItemInColumn(Matrix matrix)
         {
+            clearDataGridView(dataGridView2);
             int[,] data = new int[matrix.getData().GetLength(0), matrix.getData().GetLength(1)];
             int[] proposal = (int[])matrix.getProposal().Clone();
             int[] demand = (int[])matrix.getDemand().Clone();
@@ -454,6 +454,7 @@ namespace TRPO
         string strSumBasic;
         private int[,] lebedev(Matrix matrix)
         {
+            clearDataGridView(dataGridView2);
             double[] columnAvg = new double[matrix.getDemand().Length];
             double[] rowAvg = new double[matrix.getProposal().Length];
 
@@ -542,11 +543,11 @@ namespace TRPO
             {
                 res[i] = i;
             }
-            for (int i = 0; i < data.Length - 1; i++)
+            for (int i = 0; i < data.Length ; i++)
             {
-                for (int j = 0; j < data.Length - i - 1; j++)
+                for (int j = i+1; j < data.Length ; j++)
                 {
-                    if (data[j].CompareTo(data[j + 1]) > 0)
+                    if (data[i].CompareTo(data[j]) > 0)
                     {
                         swap(ref data[i], ref data[j]);
                         swap(ref res[i], ref res[j]);
